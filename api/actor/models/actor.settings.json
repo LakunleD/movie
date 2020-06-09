@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "actors",
+  "info": {
+    "name": "actor"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "first_name": {
+      "type": "string",
+      "required": true
+    },
+    "last_name": {
+      "type": "string"
+    }
+  }
+}
