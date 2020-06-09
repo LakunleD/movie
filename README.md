@@ -1,3 +1,3 @@
-# Strapi application
+# Movie app
 
-A quick description of your strapi application
+The backend for a simple movie application using strapi.
