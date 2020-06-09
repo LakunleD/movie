@@ -27,6 +27,11 @@
       ],
       "plugin": "upload",
       "required": false
+    },
+    "actors": {
+      "collection": "actor",
+      "via": "movies",
+      "dominant": true
     }
   }
 }
